@@ -2,7 +2,7 @@
 
 This is a C# Forms application developed in VS 2015.
 
--Use the standalone .exe for testing or open Form1.cs to see the source code.
+-Use the standalone .exe in WgtAvgCalc/WindowsFormsApplication1/bin/Debug/ for testing or open Form1.cs to see the source code.
 
 Usage:
 
